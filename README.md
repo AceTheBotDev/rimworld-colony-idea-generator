@@ -2,7 +2,7 @@
 
 
 **To do.**
-- [ ] Home Page.
+- [x] Home Page.
 - [ ] Generator
 - [ ] Optional Indepth Challange Description.
 
